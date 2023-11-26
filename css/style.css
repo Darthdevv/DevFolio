@@ -438,7 +438,6 @@ img {
     border-radius: 50%!important;
 }
 
-
 .card-blog .card-category-box {
   position: absolute;
   text-align: center;
@@ -569,6 +568,7 @@ footer .credits a {
 .p-contact{
   padding-top: 8rem;
 }
+
 .m-contact{
   margin-top: 8rem;
 }
@@ -636,7 +636,6 @@ footer .credits a {
     box-shadow: 0 0 0 3px #CDE0F8;
     transition: all 500ms ease;
 }
-
 
 .ico-circle {
     height: 100px;
